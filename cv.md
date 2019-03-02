@@ -29,7 +29,7 @@ Applied his skills only to solve the problems of the university.
 
 I am studying at the Belarusian State University of Economics (BSEU). Department of Applied Mathematics and Cybernetics. The second course of full-time training in the economics of cybernetics. 
 I also took part in the selection for ITransition courses on frontend development, but after offensive criticism towards EPAM, I stopped trying to get there. 
-I had the pleasure to attend a seminar from Business Youth, I learned more about these information giants and became convinced of the illiteracy of these ìbusinessmenî. Pass the course tester.
+I had the pleasure to attend a seminar from Business Youth, I learned more about these information giants and became convinced of the illiteracy of these ‚Äúbusinessmen‚Äù. Pass the course tester.
 
 7. **English level**
 
