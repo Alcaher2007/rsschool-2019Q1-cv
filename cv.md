@@ -1,39 +1,36 @@
-1. **Имя, фамилия.**
+1. **Name, Last Name.**
 
-Пилат Егор.
+Pilat Egor.
 
-2. **Контакты.**
+2. **Contacts**
 
-Город проживания: Минск.
+City of residence: Minsk.
 
-email-адрес: pilat.egor@gmail.com.
+Email-address: pilat.egor@gmail.com.
 
-Мобильный телефон: +375(29) 186-33-30.
+Mobile phone: +375(29) 186-33-30.
 
-Gitghub-аккаунт: https://github.com/Alcaher2007.
+Gitghub-account: https://github.com/Alcaher2007.
 
 3. **Summary.**
 
-Я считаю цель должна быть одна. Благодаря этому ты более сконцентрирован на ней. 
-
-Моя цель - это начать карьеру frontend-разработчика в компании EPAM и развивать свои навыки. В кратчайшие сроки дорасти до тимлида.
+I think the goal should be one. Because of this, you are more focused on it. 
+My goal is to start a career as a frontend developer at EPAM and develop my skills. In the shortest time to grow to TeamLead.
 
 4. **Skills.**
 
-Я изучаю программирование более двух лет. За это время я научился оперировать, на хорошем уровне, таким языком как C++. Также имею опыт работы с SQL, Photoshop, HTML/CSS/JS, PHP.
+I have been studying programming for over two years. During this time, I learned to operate, at a good level, in a language like C ++. I also have experience with SQL, Photoshop, HTML / CSS / JS, PHP.
 
-5. **Опыт.**
+5. **Experience**
 
-Свои навыки применял только для решения задач вуза. 
+Applied his skills only to solve the problems of the university.
 
-6. **Образование.**
- 
-Прохожу обучение в Белорусском государственном экономическом университете (БГЭУ). Кафедра прикладной математики и кибернетики.
-Второй курс очного обучения по специальности экономист-кибернетик. 
-Также принял участие в отборе на курсы ITransition по frontend разработке, но после оскорбительной критики в сторону EPAM я прекратил попытку попасть туда.
-Имел удовольствие посетить семинар от Бизнес Молодости, узнал больше об этих инфоцыганах и убедился в безграмотности этих "бизнесменов".
-Прохожу курс тестировщика.
+6. **Education.**
 
-7. **Уровень английского.**
+I am studying at the Belarusian State University of Economics (BSEU). Department of Applied Mathematics and Cybernetics. The second course of full-time training in the economics of cybernetics. 
+I also took part in the selection for ITransition courses on frontend development, but after offensive criticism towards EPAM, I stopped trying to get there. 
+I had the pleasure to attend a seminar from Business Youth, I learned more about these information giants and became convinced of the illiteracy of these “businessmen”. Pass the course tester.
 
-11 лет школьного обучения и год специализированного английского в вузе. Сейчас самостоятельно изучаю и практикую английский с носителем.
+7. **English level**
+
+11 years of schooling and a year of specialized English in high school. Now I independently study and practice English with a carrier.
