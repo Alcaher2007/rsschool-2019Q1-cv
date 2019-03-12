@@ -308,5 +308,23 @@ h6
 	color: #9A9B9F;
 	position: relative;
 	top: 32px;
-    left: 80px;
+    left: 140px;
+ }
+ img[alt="location"]
+ {
+position: relative;
+	top: -6px;
+    left: 104px;
+ }
+img[alt="mail"]
+{
+position: relative;
+	top: 0px;
+    left: 104px;
+ }
+img[alt="phone"]
+ {
+position: relative;
+	top: -2px;
+    left: 104px;
  }
